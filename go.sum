@@ -1,0 +1,14 @@
+github.com/Binject/debug v0.0.0-20200830173345-f54480b6530f h1:aANCCkNbGzwXFh7dubh5FgvlZXuyRnZHcHZXmkRLV/A=
+github.com/Binject/debug v0.0.0-20200830173345-f54480b6530f/go.mod h1:QzgxDLY/qdKlvnbnb65eqTedhvQPbaSP2NqIbcuKvsQ=
+github.com/C-Sto/BananaPhone v0.0.0-20201003062936-916e63b713df h1:0xMqCgH48h3CeCyMjLfW7B9/4qifjqmGNGn2B0UM244=
+github.com/C-Sto/BananaPhone v0.0.0-20201003062936-916e63b713df/go.mod h1:QsEPWHZooj8uXL2YEdpQX+hDr00Plw7myenTiduBHRA=
+github.com/awgh/rawreader v0.0.0-20200626064944-56820a9c6da4 h1:cIAK2NNf2yafdgpFRNJrgZMwvy61BEVpGoHc2n4/yWs=
+github.com/awgh/rawreader v0.0.0-20200626064944-56820a9c6da4/go.mod h1:SalMPBCab3yuID8nIhLfzwoBV+lBRyaC7NhuN8qL8xE=
+github.com/mitchellh/go-ps v1.0.0 h1:i6ampVEEF4wQFF+bkYfwYgY+F/uYJDktmvLPf7qIgjc=
+github.com/mitchellh/go-ps v1.0.0/go.mod h1:J4lOc8z8yJs6vUwklHw2XEIiT4z4C40KtWVN3nvg8Pg=
+gitlab.com/mjwhitta/cli v1.8.0/go.mod h1:0nzOLJZWsbgzJp/EQoLHcCLvKXX/iakyOZIqg94xAzo=
+gitlab.com/mjwhitta/hilighter v1.9.1 h1:YlUCB1jWYVtwwfQ4DFvwXULmvH3Bu9ELlTkS5+jzZgQ=
+gitlab.com/mjwhitta/hilighter v1.9.1/go.mod h1:/hkHOgezVQbk/eoif5CRCK2/N0aeEK40VQh8znGsjpE=
+golang.org/x/sys v0.0.0-20200828194041-157a740278f4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea h1:+WiDlPBBaO+h9vPNZi8uJ3k4BkKQB7Iow3aqwHVA5hI=
+golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
